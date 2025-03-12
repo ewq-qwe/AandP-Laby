@@ -1,0 +1,3 @@
+Kilkist elementiv > za serednye u kozhnomu ryadku: Ryadok 1: 3elementiv
+Ryadok 2: 1elementiv
+Ryadok 3: 0elementiv
